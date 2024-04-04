@@ -5,7 +5,7 @@ body{
     background-position: center;
 
     font-family: 'VT323', monospace;
-    color: #000000;
+    color: #494848;
     font-size: 18px;
     display: flex;
     justify-content: center;
@@ -15,9 +15,9 @@ body{
 }
 
 .cartao{
-    background-color: #fafcfd;
+    background-color: #005179;
     width: 370px;
-    border: 2px solid #2b8eeb;
+    border: 2px solid #dd4802;
     border-radius: 10px;
     overflow: hidden;
 }
