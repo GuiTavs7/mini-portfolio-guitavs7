@@ -15,9 +15,9 @@ body{
 }
 
 .cartao{
-    background-color: #005179;
+    background-color: #333333;
     width: 370px;
-    border: 2px solid #dd4802;
+    border: 2px solid #75ec8f;
     border-radius: 10px;
     overflow: hidden;
 }
