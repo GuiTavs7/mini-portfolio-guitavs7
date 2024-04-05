@@ -66,15 +66,15 @@ body{
 }
 
 .cartao .abas .aba.selecionado{
-    background-color: #262626;
+    background-color: #2870f7;  
 }
 
 .cartao .informacoes-abas{
-    background-color: #000000;
+    background-color: #dfdfdf;
 }
 
 .cartao .abas .aba:hover{
-    background-color: #414141;
+    background-color: #0ac0ee;
 }
 
 .informacoes-abas .informacao{
