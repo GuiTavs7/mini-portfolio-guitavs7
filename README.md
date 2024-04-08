@@ -8,10 +8,16 @@ Trata-se de um mini portfólio, no estilo de um cartão de perfil
 
 ## Design Desktop
 
-<img src="/src/imagens/design-desktop.png" alt="desktop">
+<div align="center">
+  <img src="/src/imagens/design-desktop.png" alt="desktop">
+</div>
 
 ## Design Mobile
 
+<div align="center">
 <img src="/src/imagens/design-mobile-1.png" alt="desktop">
+</div>
 
+<div align="center">
 <img src="/src/imagens/design-mobile-2.png" alt="desktop">
+</div>
